@@ -1,117 +1,6 @@
 <?xml version="1.0"?>
 <clips>
 	<clip>
-		<clipname>a_01_a.mp3</clipname>
-		<pro_contra>pro</pro_contra>
-		<reaction_action>action</reaction_action>
-		<strategy>ad verecundiam</strategy>
-		<male_female>female</male_female>
-		<intensity>1</intensity>
-		<shot>totale</shot>
-		<clip_pos>snippet</clip_pos>
-		<family>0</family>
-		<religion>2</religion>
-		<emotion>0</emotion>
-		<society>1</society>
-		<routine>0</routine>
-		<spare_time>0</spare_time>
-		<safety>0</safety>
-		<freedom>0</freedom>
-		<loyalty_sex>0</loyalty_sex>
-		<emotional_reaction>false</emotional_reaction>
-		<flowing_reaction>false</flowing_reaction>
-		<joker>sound</joker>
-	</clip>
-	<clip>
-		<clipname>a_02_a.mp3</clipname>
-		<pro_contra>pro</pro_contra>
-		<reaction_action>action</reaction_action>
-		<strategy>ad verecundiam</strategy>
-		<male_female>female</male_female>
-		<intensity>1</intensity>
-		<shot>totale</shot>
-		<clip_pos>snippet</clip_pos>
-		<family>0</family>
-		<religion>2</religion>
-		<emotion>0</emotion>
-		<society>1</society>
-		<routine>0</routine>
-		<spare_time>0</spare_time>
-		<safety>0</safety>
-		<freedom>0</freedom>
-		<loyalty_sex>0</loyalty_sex>
-		<emotional_reaction>false</emotional_reaction>
-		<flowing_reaction>false</flowing_reaction>
-		<joker>sound</joker>
-	</clip>
-	<clip>
-		<clipname>a_03_a.mp3</clipname>
-		<pro_contra>pro</pro_contra>
-		<reaction_action>action</reaction_action>
-		<strategy>ad verecundiam</strategy>
-		<male_female>female</male_female>
-		<intensity>1</intensity>
-		<shot>totale</shot>
-		<clip_pos>snippet</clip_pos>
-		<family>0</family>
-		<religion>2</religion>
-		<emotion>0</emotion>
-		<society>1</society>
-		<routine>0</routine>
-		<spare_time>0</spare_time>
-		<safety>0</safety>
-		<freedom>0</freedom>
-		<loyalty_sex>0</loyalty_sex>
-		<emotional_reaction>false</emotional_reaction>
-		<flowing_reaction>false</flowing_reaction>
-		<joker>sound</joker>
-	</clip>
-	<clip>
-		<clipname>a_04_a.mp3</clipname>
-		<pro_contra>pro</pro_contra>
-		<reaction_action>action</reaction_action>
-		<strategy>ad verecundiam</strategy>
-		<male_female>female</male_female>
-		<intensity>1</intensity>
-		<shot>totale</shot>
-		<clip_pos>snippet</clip_pos>
-		<family>0</family>
-		<religion>2</religion>
-		<emotion>0</emotion>
-		<society>1</society>
-		<routine>0</routine>
-		<spare_time>0</spare_time>
-		<safety>0</safety>
-		<freedom>0</freedom>
-		<loyalty_sex>0</loyalty_sex>
-		<emotional_reaction>false</emotional_reaction>
-		<flowing_reaction>false</flowing_reaction>
-		<joker>sound</joker>
-	</clip>
-	<clip>
-		<clipname>a_05_a.mp3</clipname>
-		<pro_contra>pro</pro_contra>
-		<reaction_action>action</reaction_action>
-		<strategy>ad verecundiam</strategy>
-		<male_female>female</male_female>
-		<intensity>1</intensity>
-		<shot>totale</shot>
-		<clip_pos>snippet</clip_pos>
-		<family>0</family>
-		<religion>2</religion>
-		<emotion>0</emotion>
-		<society>1</society>
-		<routine>0</routine>
-		<spare_time>0</spare_time>
-		<safety>0</safety>
-		<freedom>0</freedom>
-		<loyalty_sex>0</loyalty_sex>
-		<emotional_reaction>false</emotional_reaction>
-		<flowing_reaction>false</flowing_reaction>
-		<joker>sound</joker>
-	</clip>
-    
-    <clip>
 		<clipname>1.mov</clipname>
 		<pro_contra>pro</pro_contra>
 		<reaction_action>action</reaction_action>
@@ -131,7 +20,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>2.mov</clipname>
@@ -153,7 +42,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>	
 	<clip>
 		<clipname>3.mov</clipname>
@@ -175,7 +64,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 		<clip>
 		<clipname>4.mov</clipname>
@@ -197,7 +86,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>	
 	<clip>
 		<clipname>5.mov</clipname>
@@ -219,7 +108,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>	
 	<clip>
 		<clipname>6.mov</clipname>
@@ -241,7 +130,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>	
 	<clip>
 		<clipname>7.mov</clipname>
@@ -263,7 +152,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>	
 	<clip>
 		<clipname>8.mov</clipname>
@@ -285,7 +174,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>9.mov</clipname>
@@ -307,7 +196,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>10.mov</clipname>
@@ -329,7 +218,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>11.mov</clipname>
@@ -351,7 +240,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>12.mov</clipname>
@@ -373,7 +262,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>13.mov</clipname>
@@ -395,7 +284,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>14.mov</clipname>
@@ -417,7 +306,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>15.mov</clipname>
@@ -439,7 +328,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>16.mov</clipname>
@@ -461,7 +350,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>17.mov</clipname>
@@ -483,7 +372,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>18.mov</clipname>
@@ -505,7 +394,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>19.mov</clipname>
@@ -527,7 +416,7 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 	<clip>
 		<clipname>20.mov</clipname>
@@ -549,6 +438,6 @@
 		<loyalty_sex>0</loyalty_sex>
 		<emotional_reaction>false</emotional_reaction>
 		<flowing_reaction>false</flowing_reaction>
-		<joker>video</joker>
+		<joker>false</joker>
 	</clip>
 </clips>
